@@ -1,2 +1,2 @@
-Desafio Netflix
-Clone da tela do Netflix - Curso de Bootstrap4 (HCode Treinamentos)
+Curso Bootstrap4 - HCode Treinamentos
+Clone da tela do Netflix
